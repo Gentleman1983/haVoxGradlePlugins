@@ -2,3 +2,4 @@
 /project_plugins/build/
 /gradle_plugins/build/
 /common_data/build/
+/.nb-gradle/
